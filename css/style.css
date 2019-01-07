@@ -40,7 +40,7 @@ h1 {
   font-family: "Baskerville", serif;
   color: rgb(152,173,166);
 	margin: 0px;
-	border-bottom: 1px solid rgb(152,173,166);
+	/*border-bottom: 1px solid rgb(152,173,166);*/
 }
 
 footer {
